@@ -18,14 +18,18 @@ header {
   
  
 }
-
-.text p{
-  color: #8c8ca4;
-
+.write{
+  color: rgb(186, 199, 195);
 }
+
+
 
 .color{
   color: #adb873;
+}
+
+p .color{
+  color: blue;
 }
 
 .text-photo > p{
